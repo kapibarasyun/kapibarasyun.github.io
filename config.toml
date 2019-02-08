@@ -2,7 +2,7 @@ baseURL = "https://kapibarasyun.github.io/"
 languageCode = "ja"
 title = "shunsuke habara site"
 theme = "hallo-hugo"
-publishDir = "docs"
+publishDir = "public"
 
 [Author]
     name = "Habara shunsuke"
