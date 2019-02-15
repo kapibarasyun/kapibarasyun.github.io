@@ -1,11 +1,11 @@
 baseURL = "https://kapibarasyun.github.io/"
 languageCode = "ja"
-title = "shunsuke habara site"
+title = "fleming-tone site"
 theme = "hallo-hugo"
 publishDir = "public"
 
 [Author]
-    name = "Habara shunsuke"
+    name = "fleming-tone"
 
 [params]
     [[params.links]]
