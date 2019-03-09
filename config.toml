@@ -2,7 +2,7 @@ baseURL = "https://kapibarasyun.github.io/"
 languageCode = "ja"
 title = "fleming-tone site"
 theme = "hallo-hugo"
-publishDir = "public"
+publishDir = "docs"
 
 [Author]
     name = "fleming-tone"
