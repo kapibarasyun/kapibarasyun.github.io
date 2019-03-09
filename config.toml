@@ -34,6 +34,10 @@ publishDir = "docs"
         icon = "skype"
         title = "skype"
         url = "https://join.skype.com/invite/m60XVNXWAVEk"
+    [[params.links]]
+        icon = "youtube"
+        title = "YouTube"
+        url = "https://www.youtube.com/user/kapibarasyun/"
 [params.colors]
         background = "#66cdaa"
         foreground = "#edf7ff"
