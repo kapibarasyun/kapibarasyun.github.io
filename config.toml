@@ -1,0 +1,49 @@
+baseURL = "https://kapibarasyun.github.io/"
+languageCode = "en"
+title = "fleming-tone site"
+theme = "hallo-hugo"
+publishDir = "public"
+
+[Author]
+    name = "fleming-tone"
+
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/kapibarasyun"
+    [[params.links]]
+        icon = "instagram"
+        title = "instagram"
+        url = "https://www.instagram.com/fleming_tone/"
+    [[params.links]]
+        icon = "twitter"
+        title = "twitter"
+        url = "https://twitter.com/fleming_tone"
+    [[params.links]]
+        iconset = "fas"
+        icon = "sticky-note"
+        title = "Note"
+        url = "https://note.mu/fleming_tone"
+    [[params.links]]
+        iconset = "fas"
+        icon = "link"
+        title = "quita"
+        url = "https://qiita.com/fleming_tone"
+    [[params.links]]
+        icon = "skype"
+        title = "skype"
+        url = "https://join.skype.com/invite/m60XVNXWAVEk"
+    [[params.links]]
+        icon = "youtube"
+        title = "YouTube"
+        url = "https://www.youtube.com/user/kapibarasyun/"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:kaerusyunn@yahoo.co.jp"
+[params.colors]
+        background = "#66cdaa"
+        foreground = "#edf7ff"
+        hover = "#ffb6c1"
