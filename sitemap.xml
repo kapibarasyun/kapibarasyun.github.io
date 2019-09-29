@@ -4,17 +4,14 @@
   
   <url>
     <loc>https://kapibarasyun.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kapibarasyun.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kapibarasyun.github.io/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kapibarasyun.github.io/tags/</loc>
   </url>
   
 </urlset>
